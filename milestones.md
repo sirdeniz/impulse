@@ -6,7 +6,7 @@ title: Project Milestones
 <h1 align="center">🚧 Project Milestones 🚧</h1>
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/loading.gif" alt="Loading..." width="300"/>
+  <img src="{{ site.baseurl }}/assets/images/loading.gif" alt="Loading..." width="700"/>
 </p>
 
 <p align="center"><em>Loading... turning concepts into silicon.</em></p>
