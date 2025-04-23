@@ -5,7 +5,7 @@ title: About IMPULSE
 
 <!-- LOGO -->
 <p align="center">
-  <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
+  <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo1" width="100%"/>
 </p>
 
 ## About the Project
@@ -15,7 +15,7 @@ The project focuses on the conception, design, and characterization of a high-pe
 
 <!-- ed -->
 <p align="center">
-  <img src="/impulse/assets/images/csm_BildEuD_1534119854.png" alt="IMPULSE Logo" width="100%"/>
+  <img src="/impulse/assets/images/csm_BildEuD_1534119854.png" alt="ED" width="100%"/>
 </p>
 
 The Electronics & Drive Center is not located on the main campus of Reutlingen University, but in Reutlingen-Rommelsbach. The visitor address is:
