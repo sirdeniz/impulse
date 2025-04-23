@@ -6,6 +6,21 @@ title: Project Milestones
 <h1 align="center">🚧 Project Milestones 🚧</h1>
 
 <p align="center">
+  <span style="font-size: 24px;">Loading<span class="dots"></span></span>
+</p>
+
+<script>
+  var dots = window.setInterval( function() {
+    var wait = document.getElementsByClassName("dots")[0];
+    if ( wait.innerHTML.length > 3 ) 
+        wait.innerHTML = "";
+    else 
+        wait.innerHTML += ".";
+  }, 500);
+</script>
+
+
+<p align="center">
   <img src="{{ site.baseurl }}/assets/images/loading.gif" alt="Loading..." width="700"/>
 </p>
 
