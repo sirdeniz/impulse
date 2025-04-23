@@ -24,6 +24,6 @@ Stay tuned for team insights, milestone posts, and behind-the-scenes looks at ho
 
 <p align="center">
   <a href="https://www.linkedin.com/company/impulse-hochschule-reutlingen" target="_blank">
-    <img src="{{ site.baseurl }}/assets/images/linkedin-icon1.png" alt="LinkedIn" width="80"/>
+    <img src="{{ site.baseurl }}/assets/images/linkedin-icon1.jpg" alt="LinkedIn" width="50"/>
   </a>
 </p>
