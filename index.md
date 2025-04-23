@@ -10,5 +10,5 @@ More updates coming soon!
 
 
 <p align="center">
-  <img src="/assets/images/impulse_logo_wide.pdf" alt="IMPULSE Log" width="300"/>
+  <img src="/assets/images/impulse_logo_v2.png" alt="IMPULSE Log" width="300"/>
 </p>
