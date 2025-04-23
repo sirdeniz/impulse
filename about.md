@@ -26,14 +26,6 @@ Oferdinger Straße 50
 
 <!-- Google Maps Embed -->
 <p align="center">
-  <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2665.558752997748!2d9.197768576743728!3d48.491209371221494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799f77e17b4eb35%3A0x91a2a73d79d853e0!2sHochschule%20Reutlingen!5e0!3m2!1sen!2sde!4v1713962948467!5m2!1sen!2sde" 
-    width="600" 
-    height="450" 
-    style="border:0;" 
-    allowfullscreen="" 
-    loading="lazy" 
-    referrerpolicy="no-referrer-when-downgrade">
-  </iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2641.71718217613!2d9.199611412608832!3d48.53865147117096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4799ef01a2fb6119%3A0x3fd075b977fdbac7!2sElectronics%20%26%20Drives!5e0!3m2!1sen!2sde!4v1745430466602!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </p>
 ---
