@@ -13,7 +13,7 @@ title: IMPULSE Project
 
 <!-- LOGO -->
 <p align="center">
-  <img src="{{ site.baseurl }}/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="300"/>
+  <img src="{{ site.baseurl }}/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
 </p>
 
 <!-- BAŞLIK -->
