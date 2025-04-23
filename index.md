@@ -11,6 +11,15 @@ title: IMPULSE Project
   </video>
 </p>
 
+---
+
+## Updates Coming Soon
+
+Stay tuned for team insights, milestone posts, and behind-the-scenes looks at how we turn ideas into silicon.
+
+---
+
+
 <!--  PROJECT HEADLINE -->
 <h1 align="center">IMPULSE | Hochschule Reutlingen</h1>
 
@@ -21,14 +30,6 @@ title: IMPULSE Project
   <img src="{{ site.baseurl }}/assets/images/impulse_typelogo-blue.png" alt="IMPULSE Logo" width="80%"/>
 </p>
 
-
----
-
-## Updates Coming Soon
-
-Stay tuned for team insights, milestone posts, and behind-the-scenes looks at how we turn ideas into silicon.
-
----
 
 <h2 align="center">Connect with Us</h2>
 
