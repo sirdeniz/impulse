@@ -9,5 +9,5 @@ The project focuses on the conception, design, and characterization of a high-pe
 More updates coming soon!
 
 <p align="center">
-  <img src="assets/images/impulse_logo_wide.pdf" alt="IMPULSE Logo" width="300"/>
+  <img src="assets/images/impulse_logo_wide.pdf" alt="IMPULSE" width="300"/>
 </p>
