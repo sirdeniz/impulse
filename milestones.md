@@ -21,7 +21,7 @@ title: Project Milestones
 
 
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/loading.gif" alt="Loading..." width="700"/>
+  <img src="{{ site.baseurl }}/assets/images/under_construction.gif" alt="Loading..." width="400"/>
 </p>
 
 <p align="center"><em>Loading... turning concepts into silicon.</em></p>
