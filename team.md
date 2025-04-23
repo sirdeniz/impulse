@@ -21,5 +21,5 @@ Our project is made possible by a diverse group of students working on analog, d
 
 <!-- LOGO BELOW THE HEADLINE -->
 <p align="center">
-  <img src="{{ site.baseurl }}/assets/images/impulse_typelogo-blue.png" alt="IMPULSE Logo" width="80%"/>
+  <img src="{{ site.baseurl }}/assets/images/impulse_typelogo-blue.png" alt="IMPULSE Logo3" width="80%"/>
 </p>
