@@ -15,7 +15,7 @@ layout: default
 
 ## Updates Coming Soon
 
-Stay tuned for team insights, milestone posts, and behind-the-scenes looks at how we turn ideas into silicon.
+Stay tuned for team insights, milestone posts and behind-the-scenes looks at how we turn ideas into silicon.
 
 ---
 
