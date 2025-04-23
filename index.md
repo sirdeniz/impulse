@@ -6,14 +6,14 @@ title: IMPULSE Project
 <!-- VIDEO ÖNDE -->
 <p align="center">
   <video width="720" height="405" controls>
-    <source src="{{ site.baseurl }}/impulse/assets/images/impulse_logo_Final_Scene.mp4" type="video/mp4">
+    <source src="/impulse/assets/images/impulse_logo_Final_Scene.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
 
 <!-- LOGO -->
 <p align="center">
-  <img src="{{ site.baseurl }}/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
+  <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
 </p>
 
 <!-- BAŞLIK -->
