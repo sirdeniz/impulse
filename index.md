@@ -22,6 +22,14 @@ title: IMPULSE Project
 
 Stay tuned for team insights, milestone posts, and behind-the-scenes looks at how we turn ideas into silicon.
 
+<h2 align="center">Connect with Us</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/impulse-hochschule-reutlingen" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/linkedin-icon.png" alt="LinkedIn" width="40"/>
+  </a>
+</p>
+
 
 <!-- LOGO -->
 <p align="center">
