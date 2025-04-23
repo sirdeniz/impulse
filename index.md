@@ -21,14 +21,6 @@ title: IMPULSE Project
 
 <p align="center"><em>Interleaved Modulation for Power and Ultra-Low Spectrum Emissions</em></p>
 
----
-
-## About the Project
-
-IMPULSE is an interdisciplinary student project, developed as part of the Master's program in Power- and Microelectronics.  
-The project focuses on the conception, design, and characterization of a high-performance integrated circuit.
-
----
 
 ## Updates Coming Soon
 
