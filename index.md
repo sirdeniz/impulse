@@ -7,6 +7,7 @@ IMPULSE is an interdisciplinary student project, developed as part of the Master
 The project focuses on the conception, design, and characterization of a high-performance integrated circuit.
 
 More updates coming soon!
+t
 
 <p align="center">
   <img src="assets/images/impulse_logo_wide.pdf" alt="IMPULSE" width="300"/>
