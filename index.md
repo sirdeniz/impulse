@@ -1,6 +1,11 @@
 ---
 layout: default
 title: IMPULSE Project
+<!-- LOGO -->
+<p align="center">
+  <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
+</p>
+
 ---
 
 <!-- VIDEO ÖNDE -->
@@ -11,10 +16,6 @@ title: IMPULSE Project
   </video>
 </p>
 
-<!-- LOGO -->
-<p align="center">
-  <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
-</p>
 
 <!-- BAŞLIK -->
 <h1 align="center">IMPULSE | Hochschule Reutlingen</h1>
