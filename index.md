@@ -6,6 +6,8 @@ title: IMPULSE Project
 <!-- BAŞLIK -->
 <h1 align="center">IMPULSE | Hochschule Reutlingen</h1>
 
+<p align="center"><em>Interleaved Modulation for Power and Ultra-Low Spectrum Emissions</em></p>
+
 <!-- VIDEO ÖNDE -->
 <p align="center">
   <video width="720" height="405" controls>
@@ -15,14 +17,12 @@ title: IMPULSE Project
 </p>
 
 
-<p align="center"><em>Interleaved Modulation for Power and Ultra-Low Spectrum Emissions</em></p>
+
+## Updates Coming Soon
+
+Stay tuned for team insights, milestone posts, and behind-the-scenes looks at how we turn ideas into silicon.
 
 <!-- LOGO -->
 <p align="center">
   <img src="/impulse/assets/images/impulse_typelogo-blue.png" alt="IMPULSE Logo" width="100%"/>
 </p>
-
-
-## Updates Coming Soon
-
-Stay tuned for team insights, milestone posts, and behind-the-scenes looks at how we turn ideas into silicon.
