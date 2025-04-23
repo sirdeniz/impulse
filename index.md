@@ -3,6 +3,9 @@ layout: default
 title: IMPULSE Project
 ---
 
+<!-- BAŞLIK -->
+<h1 align="center">IMPULSE | Hochschule Reutlingen</h1>
+
 <!-- VIDEO ÖNDE -->
 <p align="center">
   <video width="720" height="405" controls>
@@ -11,9 +14,6 @@ title: IMPULSE Project
   </video>
 </p>
 
-
-<!-- BAŞLIK -->
-<h1 align="center">IMPULSE | Hochschule Reutlingen</h1>
 
 <p align="center"><em>Interleaved Modulation for Power and Ultra-Low Spectrum Emissions</em></p>
 
