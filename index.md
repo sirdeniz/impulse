@@ -22,6 +22,11 @@ title: IMPULSE Project
 
 Stay tuned for team insights, milestone posts, and behind-the-scenes looks at how we turn ideas into silicon.
 
+
+## Connect with Us
+
+[Visit our LinkedIn page](https://www.linkedin.com/company/your-linkedin-handle)  
+
 <!-- LOGO -->
 <p align="center">
   <img src="/impulse/assets/images/impulse_typelogo-blue.png" alt="IMPULSE Logo" width="100%"/>
