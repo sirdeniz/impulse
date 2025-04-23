@@ -20,17 +20,6 @@ Stay tuned for team insights, milestone posts, and behind-the-scenes looks at ho
 ---
 
 
-<!--  PROJECT HEADLINE -->
-<h1 align="center">IMPULSE | Hochschule Reutlingen</h1>
-
-<p align="center"><em>Interleaved Modulation for Power and Ultra-Low Spectrum Emissions</em></p>
-
-<!-- LOGO BELOW THE HEADLINE -->
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/impulse_typelogo-blue.png" alt="IMPULSE Logo" width="80%"/>
-</p>
-
-
 <h2 align="center">Connect with Us</h2>
 
 <p align="center">
