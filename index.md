@@ -4,7 +4,7 @@ title: IMPULSE Project
 ---
 
 <p align="center">
-  <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="300"/>
+  <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
 </p>
 
 # IMPULSE | Hochschule Reutlingen
