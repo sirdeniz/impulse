@@ -4,6 +4,7 @@ title: About Us
 ---
 
 
+## Project IMPULSE
 
 IMPULSE is an interdisciplinary student project, developed as part of the Master's program in Power- and Microelectronics at Hochschule Reutlingen, **Electronics & Drive Center (E&D)** .  
 The project focuses on the conception, design and characterization of a high-performance integrated circuit.
