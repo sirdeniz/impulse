@@ -1,12 +1,11 @@
 ---
 layout: default
 title: IMPULSE Project
+---
 <!-- LOGO -->
 <p align="center">
   <img src="/impulse/assets/images/impulse-logo.png" alt="IMPULSE Logo" width="100%"/>
 </p>
-
----
 
 <!-- VIDEO ÖNDE -->
 <p align="center">
