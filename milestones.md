@@ -24,7 +24,7 @@ title: Project Milestones
   <img src="{{ site.baseurl }}/assets/images/loading-instagram.gif" alt="Loading..." width="200"/>
 </p>
 
-<p align="center"><em>Loading... turning concepts into silicon.</em></p>
+<p align="center"><em>Turning concepts into silicon takes it's time.</em></p>
 
 ---
 
@@ -39,7 +39,7 @@ title: Project Milestones
 ---
 
 ## Current Status:  
-<p align="center"><strong>🟡 Integration phase in progress...</strong></p>
+<p align="center"><strong>🟡 Block-level Design phase in progress...</strong></p>
 
 
 ---
