@@ -25,3 +25,15 @@ title: Project Milestones
 
 ## Current Status:  
 <p align="center"><strong>🟡 Integration phase in progress...</strong></p>
+
+
+---
+<!--  PROJECT HEADLINE -->
+<h1 align="center">IMPULSE | Hochschule Reutlingen</h1>
+
+<p align="center"><em>Interleaved Modulation for Power and Ultra-Low Spectrum Emissions</em></p>
+
+<!-- LOGO BELOW THE HEADLINE -->
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/impulse_typelogo-blue.png" alt="IMPULSE Logo" width="80%"/>
+</p>
