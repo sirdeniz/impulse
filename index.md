@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<link rel="icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon">
 
 <!-- VIDEO FIRST -->
 
