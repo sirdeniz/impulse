@@ -2,7 +2,6 @@
 layout: default
 title: Project Milestones
 ---
-<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 
 <h1 align="center">🚧 Project Milestones 🚧</h1>
 
