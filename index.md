@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/impulse_logo_v2.png" alt="IMPULSE Logo lill baby" width="40" style="vertical-align: middle;"/>
+  <span style="font-size: 2em; font-weight: bold; vertical-align: middle; margin-left: 10px;">IMPULSE</span>
+</p> 
 <!-- VIDEO FIRST -->
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
