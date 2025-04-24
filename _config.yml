@@ -1,4 +1,8 @@
 title:   IMPULSE
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/impulse_logo_v2.png" alt="IMPULSE Logo lill baby" width="40" style="vertical-align: middle;"/>
+  <span style="font-size: 2em; font-weight: bold; vertical-align: middle; margin-left: 10px;">IMPULSE</span>
+</p> 
 description: Interleaved Modulation for Power and Ultra-Low Spectrum Emissions
 theme: minima
 header_pages:
