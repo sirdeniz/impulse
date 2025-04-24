@@ -1,7 +1,6 @@
 title:   IMPULSE
 description: Interleaved Modulation for Power and Ultra-Low Spectrum Emissions
-theme: null
-remote_theme: sirdeniz/minima
+theme: minima
 header_pages:
   - index.md
   - about.md
