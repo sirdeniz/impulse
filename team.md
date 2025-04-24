@@ -2,6 +2,7 @@
 layout: default
 title: The Team
 ---
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 
 # Meet the designer Team behind!
 
