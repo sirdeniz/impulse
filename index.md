@@ -1,7 +1,5 @@
 
-<head>
-  <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
-</head>
+
 ---
 layout: default
 ---
