@@ -33,7 +33,7 @@ title: Project Milestones
 - 🟢 **Kick-off Meeting:** Project definition and role assignments ✅  
 - 🔵 **Block-level Design:** Architecture, function block development, simulation (ongoing...)  
 - 🔵 **Integration Phase:** Connecting function blocks, system-level simulation, schematic-level circuit design using Cadence Virtuoso (upcoming)  
-- 🔵 **Tape-out Preparation:** Layout design and verification including LVS, DRC, and parasitic extraction  
+- 🔵 **Tape-out Preparation:** Layout design and verification including LVS, DRC and parasitic extraction  
 - 🚀 **Tape-out / Fabrication:** Tape-out and fabrication in collaboration with X-FAB within an MPW run (planned)
 
 ---
