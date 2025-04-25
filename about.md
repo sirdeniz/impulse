@@ -7,7 +7,7 @@ title: About Us
 ## Project IMPULSE
 
 IMPULSE is an interdisciplinary student project, developed as part of the Master's program in Power- and Microelectronics at Hochschule Reutlingen, **<a href="https://www.electronics-and-drives.de/" target="_blank">Electronics & Drives (E&D)</a>**.  
-The project focuses on the design, simulation, and characterization of an application-specific integrated circuit (ASIC), developed under realistic industry-like conditions.
+The project focuses on the design, simulation and characterization of an application-specific integrated circuit (ASIC), developed under realistic industry-like conditions.
 
 The core of the project is the implementation of an integrated modulation system for an Interleaved Spread Spectrum DC/AC Converter. This includes the development of multiple asynchronous delta-sigma modulators (ADSM), equipped with adjustable phase-locked loops (PLLs) for synchronized operation across interleaved branches. The ASIC is designed to enable precise phase control and dead-time management, reduce voltage peaks and spread emissions more evenly; directly addressing the challenges of modern power electronics applications.
 
