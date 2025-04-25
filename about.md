@@ -18,7 +18,7 @@ The core of the project is the implementation of an integrated modulation system
   <img src="/impulse/assets/images/csm_BildEuD_1534119854.png" alt="ED" width="100%"/>
 </p>
 
-The Electronics & Drive Center is not located on the main campus of Reutlingen University, but in Reutlingen-Rommelsbach. The visitor address is:
+The Electronics & Drives Center is not located on the main campus of Reutlingen University, but in Reutlingen-Rommelsbach. The visitor address is:
 
 Electronics & Drive
 Oferdinger Straße 50
