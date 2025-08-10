@@ -39,7 +39,7 @@ title: Project Milestones
 ---
 
 ## Current Status:  
-<p align="center"><strong>🔵 Block-level Design phase in progress...</strong></p>
+<p align="center"><strong>🔵 Tape-out / Fabrication in progress...</strong></p>
 
 
 ---
