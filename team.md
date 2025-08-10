@@ -68,6 +68,15 @@ Our project is made possible by a diverse group of students working on analog, d
 </p>
 
 <p align="center">
+  <img src="{{ site.baseurl }}/assets/images/IMG-20250810-WA0037.jpg" alt="img29" width="300"/>
+</p>
+
+<p align="center">
+  <img src="{{ site.baseurl }}/assets/images/IMG-20250810-WA0038.jpg" alt="img30" width="300"/>
+</p>
+
+
+<p align="center">
   <img src="{{ site.baseurl }}/assets/images/IMG-20250810-WA0023.jpg" alt="img15" width="300"/>
 </p>
 
